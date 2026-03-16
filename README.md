@@ -1,5 +1,3 @@
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=dongbeom's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="dongbeom's GitHub">
 
 # 🚀 Service Platform Team
@@ -11,10 +9,12 @@
 
 ## 👋 Introduction
 
-The OpsNow Service Platform Team is a group of experts who develop and operate enterprise-grade cloud services and solutions.
+The Service Platform Team is a group of experts who develop and operate enterprise-grade cloud services and solutions.
 Cloud operations automation, infrastructure optimization, security enhancement
 
 <br>
+
+<div align="center">
 
 ## 📧 Email 📧
 
